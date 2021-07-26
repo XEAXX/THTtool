@@ -1,2 +1,2 @@
 # THTtool
-Programın SLN paylaşmadım onu yakında THTtool SOURCE CODE bölümüne koyucam
+Programın SLN paylaşmadım onu yakında THTtool SOURCE CODE bölümünü açıp koyacağım
